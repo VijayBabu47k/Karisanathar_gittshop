@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "name": "Crystal Heart Keychain",
+    "price": 10,
+    "category": "Keychains",
+    "image": "https://images.unsplash.com/photo-1622467827417-bbe2237067a9?w=400&h=400&fit=crop",
+    "description": "Beautiful crystal heart keychain, perfect for gifting your loved ones."
+  },
+  {
+    "id": 2,
+    "name": "Name Engraved Keychain",
+    "price": 49,
+    "category": "Keychains",
+    "image": "https://images.unsplash.com/photo-1614704010707-3227723c5aa6?w=400&h=400&fit=crop",
+    "description": "Custom engraved keychain with any name or message."
+  },
+  {
+    "id": 3,
+    "name": "LED Name Keychain",
+    "price": 99,
+    "category": "Keychains",
+    "image": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?w=400&h=400&fit=crop",
+    "description": "LED-lit keychain that glows your name in the dark."
+  },
+  {
+    "id": 10,
+    "name": "Silver Band Ring - Boys",
+    "price": 149,
+    "category": "Rings",
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=400&h=400&fit=crop",
+    "description": "Stylish silver band ring for boys, adjustable fit."
+  },
+  {
+    "id": 11,
+    "name": "Rose Gold Ring - Girls",
+    "price": 199,
+    "category": "Rings",
+    "image": "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?w=400&h=400&fit=crop",
+    "description": "Elegant rose gold ring with delicate stone setting."
+  },
+  {
+    "id": 12,
+    "name": "Infinity Couple Ring Set",
+    "price": 349,
+    "category": "Couple Rings",
+    "image": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?w=400&h=400&fit=crop",
+    "description": "Matching infinity couple ring set in sterling silver."
+  },
+  {
+    "id": 13,
+    "name": "King & Queen Couple Rings",
+    "price": 299,
+    "category": "Couple Rings",
+    "image": "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=400&h=400&fit=crop",
+    "description": "King & Queen engraved matching couple rings."
+  },
+  {
+    "id": 20,
+    "name": "Love Message Bottle",
+    "price": 129,
+    "category": "Message Bottles",
+    "image": "https://images.unsplash.com/photo-1513756834977-4b63be9e5754?w=400&h=400&fit=crop",
+    "description": "Glass bottle with 50 handwritten love messages."
+  },
+  {
+    "id": 21,
+    "name": "Star Wish Message Bottle",
+    "price": 149,
+    "category": "Message Bottles",
+    "image": "https://images.unsplash.com/photo-1536852430-471tried4c9c?w=400&h=400&fit=crop",
+    "description": "Starry wish bottle with LED lights and paper scrolls."
+  },
+  {
+    "id": 30,
+    "name": "Ganesha Marble Idol",
+    "price": 499,
+    "category": "Swami Silai",
+    "image": "https://images.unsplash.com/photo-1609505848912-b7c3b8b4beda?w=400&h=400&fit=crop",
+    "description": "Handcrafted marble Ganesha idol with gold detailing."
+  },
+  {
+    "id": 31,
+    "name": "Krishna Brass Idol",
+    "price": 599,
+    "category": "Swami Silai",
+    "image": "https://images.unsplash.com/photo-1618397746666-63405ce5b4f4?w=400&h=400&fit=crop",
+    "description": "Premium brass Krishna idol with flute, antique finish."
+  },
+  {
+    "id": 40,
+    "name": "Voice Recorder Teddy",
+    "price": 799,
+    "category": "Voice Recorder Gifts",
+    "image": "https://images.unsplash.com/photo-1559715541-5daf8a0296d0?w=400&h=400&fit=crop",
+    "description": "Record your voice message in this adorable teddy bear."
+  },
+  {
+    "id": 41,
+    "name": "Voice Recorder Photo Frame",
+    "price": 699,
+    "category": "Voice Recorder Gifts",
+    "image": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?w=400&h=400&fit=crop",
+    "description": "Photo frame that plays your recorded voice message."
+  },
+  {
+    "id": 50,
+    "name": "Velvet Heart Box - Red",
+    "price": 249,
+    "category": "Heart Box",
+    "image": "https://images.unsplash.com/photo-1549465220-1a8b9238f939?w=400&h=400&fit=crop",
+    "description": "Premium velvet heart-shaped gift box with LED lights."
+  },
+  {
+    "id": 51,
+    "name": "Rose Heart Box",
+    "price": 399,
+    "category": "Heart Box",
+    "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=400&h=400&fit=crop",
+    "description": "Heart box filled with artificial roses, perfect for proposals."
+  },
+  {
+    "id": 60,
+    "name": "Couple Night Lamp",
+    "price": 449,
+    "category": "Lighting Gifts",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057ab3fe?w=400&h=400&fit=crop",
+    "description": "3D illusion couple night lamp with color changing LED."
+  },
+  {
+    "id": 61,
+    "name": "Brother-Sister LED Frame",
+    "price": 399,
+    "category": "Lighting Gifts",
+    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=400&h=400&fit=crop",
+    "description": "LED-lit photo frame celebrating the brother-sister bond."
+  },
+  {
+    "id": 62,
+    "name": "Friends Forever Neon Light",
+    "price": 549,
+    "category": "Lighting Gifts",
+    "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&h=400&fit=crop",
+    "description": "Neon-style friends forever desk light with warm glow."
+  },
+  {
+    "id": 63,
+    "name": "Lighting Panda - Small",
+    "price": 299,
+    "category": "Lighting Gifts",
+    "image": "https://images.unsplash.com/photo-1525382455947-f319bc05fb35?w=400&h=400&fit=crop",
+    "description": "Adorable small panda night light with soft LED glow."
+  },
+  {
+    "id": 64,
+    "name": "Lighting Panda - Big",
+    "price": 499,
+    "category": "Lighting Gifts",
+    "image": "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=400&h=400&fit=crop",
+    "description": "Large panda lamp with RGB color modes and remote."
+  },
+  {
+    "id": 65,
+    "name": "Breathing Teddy",
+    "price": 899,
+    "category": "Lighting Gifts",
+    "image": "https://images.unsplash.com/photo-1562040506-a9b32cb51b94?w=400&h=400&fit=crop",
+    "description": "Soft breathing teddy with gentle light pulsing effect."
+  },
+  {
+    "id": 66,
+    "name": "Shinchan LED Toy",
+    "price": 349,
+    "category": "Lighting Gifts",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=400&h=400&fit=crop",
+    "description": "Cute Shinchan figure with LED light-up features."
+  },
+  {
+    "id": 70,
+    "name": "Classic Wood Photo Frame",
+    "price": 199,
+    "category": "Photo Gifts",
+    "image": "https://images.unsplash.com/photo-1544967082-d9d25d867d66?w=400&h=400&fit=crop",
+    "description": "Handcrafted wooden photo frame with natural finish."
+  },
+  {
+    "id": 71,
+    "name": "Magic Mirror Photo Gift",
+    "price": 599,
+    "category": "Photo Gifts",
+    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400&h=400&fit=crop",
+    "description": "LED mirror that reveals your photo when light is turned on."
+  },
+  {
+    "id": 72,
+    "name": "Wood Carving Drawing Frame",
+    "price": 799,
+    "category": "Photo Gifts",
+    "image": "https://images.unsplash.com/photo-1579762715118-a6f1d789a253?w=400&h=400&fit=crop",
+    "description": "Custom wood carving portrait in premium wooden frame."
+  },
+  {
+    "id": 73,
+    "name": "Liquid Glitter Photo Frame",
+    "price": 349,
+    "category": "Photo Gifts",
+    "image": "https://images.unsplash.com/photo-1513135065346-a098a63a71ee?w=400&h=400&fit=crop",
+    "description": "Shake to see glitter flow around your favorite photo."
+  },
+  {
+    "id": 74,
+    "name": "Custom Photo Drawing",
+    "price": 499,
+    "category": "Photo Gifts",
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=400&h=400&fit=crop",
+    "description": "Hand-drawn pencil sketch portrait from your photo."
+  },
+  {
+    "id": 75,
+    "name": "Blood Art Drawing",
+    "price": 999,
+    "category": "Photo Gifts",
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=400&h=400&fit=crop",
+    "description": "Unique artistic blood-style portrait drawing."
+  },
+  {
+    "id": 76,
+    "name": "Photo Keychain - Custom",
+    "price": 79,
+    "category": "Photo Gifts",
+    "image": "https://images.unsplash.com/photo-1614704010707-3227723c5aa6?w=400&h=400&fit=crop",
+    "description": "Custom photo printed keychain with resin coating."
+  },
+  {
+    "id": 77,
+    "name": "Custom Photo Mug",
+    "price": 199,
+    "category": "Photo Gifts",
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=400&h=400&fit=crop",
+    "description": "Personalized ceramic mug with your favorite photo."
+  },
+  {
+    "id": 80,
+    "name": "RC Sports Car",
+    "price": 699,
+    "category": "RC Cars",
+    "image": "https://images.unsplash.com/photo-1581235720704-06d3acfcb36f?w=400&h=400&fit=crop",
+    "description": "High-speed remote control sports car with LED lights."
+  },
+  {
+    "id": 81,
+    "name": "RC Monster Truck",
+    "price": 999,
+    "category": "RC Cars",
+    "image": "https://images.unsplash.com/photo-1594787318286-3d835c1d207f?w=400&h=400&fit=crop",
+    "description": "Off-road RC monster truck with shock absorbers."
+  },
+  {
+    "id": 90,
+    "name": "Giant Teddy Bear - Brown",
+    "price": 799,
+    "category": "Teddy Collection",
+    "image": "https://images.unsplash.com/photo-1559715541-5daf8a0296d0?w=400&h=400&fit=crop",
+    "description": "3ft giant teddy bear, ultra-soft plush in brown."
+  },
+  {
+    "id": 91,
+    "name": "Mini Teddy Bouquet",
+    "price": 349,
+    "category": "Teddy Collection",
+    "image": "https://images.unsplash.com/photo-1562040506-a9b32cb51b94?w=400&h=400&fit=crop",
+    "description": "Bouquet of mini teddy bears with roses."
+  },
+  {
+    "id": 92,
+    "name": "Teddy with Heart Pillow",
+    "price": 449,
+    "category": "Teddy Collection",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=400&h=400&fit=crop",
+    "description": "Cute teddy holding a red heart-shaped pillow."
+  },
+  {
+    "id": 100,
+    "name": "Birthday Banner Kit",
+    "price": 199,
+    "category": "Birthday Decoration",
+    "image": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=400&h=400&fit=crop",
+    "description": "Complete birthday banner kit with balloons and ribbons."
+  },
+  {
+    "id": 101,
+    "name": "LED Birthday Lights Pack",
+    "price": 149,
+    "category": "Birthday Decoration",
+    "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&h=400&fit=crop",
+    "description": "Fairy light pack for birthday decoration."
+  },
+  {
+    "id": 102,
+    "name": "Birthday Balloon Arch Kit",
+    "price": 349,
+    "category": "Birthday Decoration",
+    "image": "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?w=400&h=400&fit=crop",
+    "description": "Premium balloon arch kit with metallic and pastel balloons."
+  }
+]
